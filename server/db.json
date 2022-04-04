@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "login": "test",
+      "password": "test12345",
+      "first_name": "Mock",
+      "last_name": "Name"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "3",
+      "user": "test",
+      "name": "michael schwartz",
+      "phone": "312312312",
+      "email": "asdasd2e@gmail.comsm"
+    },
+    {
+      "id": "4",
+      "user": "user2",
+      "name": "julia williams",
+      "phone": "+12213434131",
+      "email": "asdasd2e@gmail.com"
+    },
+    {
+      "id": 71,
+      "user": "test",
+      "name": "jack brown",
+      "phone": "1231231230",
+      "email": "foobar@example.com"
+    },
+    {
+      "id": 75,
+      "user": "test",
+      "name": "test",
+      "phone": "71231231232131",
+      "email": "easdasd@asdas.re"
+    }
+  ]
+}
